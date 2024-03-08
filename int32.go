@@ -1,6 +1,6 @@
 package env
 
-import "github.com/Metadiv-Technology-Limited/env/internal/types"
+import "github.com/Metadiv-Atomic-Engine/env/internal/types"
 
 /*
 Int32 returns the value of the environment variable named by the key.
